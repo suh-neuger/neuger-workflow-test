@@ -1,0 +1,4 @@
+name: neuger-workflow-test-2
+recipe: wordpress
+config:
+  webroot: .
